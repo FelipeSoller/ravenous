@@ -1,5 +1,5 @@
 <h1 align="center">
-:pizza: Ravenous, a Yelp-like clone. - Em Construção :pizza:<br>
+:pizza: Ravenous, a Yelp-like clone :pizza:<br>
 </h1>
 <h3 align="center"> É um site clone da Yelp (semelhante ao TripAdvisor para restaurantes) criado a partir de um exercício disponibilizado durante o curso de desenvolvimento web da Codecademy. </h3>
 
